@@ -50,5 +50,6 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdowsMzi&show_icons=true&theme=radium&hide_border=true" alt="Ferdows's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdowsMzi&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
+
