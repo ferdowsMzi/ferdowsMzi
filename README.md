@@ -54,7 +54,7 @@
 
 *   **[Classic Snake Game](https://github.com/ferdowsMzi/Snake-Game)**  
     Developed a fully functional Snake game using **Pure HTML, CSS, and Vanilla JavaScript**. This project demonstrates a solid grasp of core JS fundamentals, DOM manipulation, and game loop logic without relying on any external frameworks.  
-    🎮 *[Play it live here!](https://github.com/ferdowsMzi/Snake-Game)*
+    🎮 *[Play it live here!](https://ferdowsmzi.github.io/Snake-Game/)*
 
 
 ---
