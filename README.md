@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ferdows Mazraavi 👋</h1>
+<h1 align="center">Hi there, I'm Ferdows Mazraawi 👋</h1>
 
 <h3 align="center">Front-end Developer | AI & Machine Learning Enthusiast</h3>
 
