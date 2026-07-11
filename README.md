@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdowsMzi&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
 
-
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -43,7 +43,18 @@
 
 ---
 
+### 💻 Front-end & Web Projects
+
+
+*   **Modelic.AI (Landing Page Infrastructure)**  
+    Architected and developed a visually rich, high-performance landing page using **Next.js, TypeScript, and Tailwind CSS**. Focused on Core Web Vitals and advanced rendering techniques. *(Private Repository)*
+*   **Fekrati (Progressive Web App)**  
+    Collaborated on a production-ready PWA published on app stores. Managed complex states with **Redux/Context API** and built with **React.js & TypeScript**. *(Live on Cafe Bazaar)*
+
+---
+
 ### 🚀 Highlighted Projects
+
 
 *   **[Core ML Algorithms Implementation](https://github.com/ferdowsMzi/ML-Algorithms-Core)**  
     Engineered foundational Machine Learning algorithms entirely from scratch (Linear/Logistic Regression, KNN, etc.) without external libraries, demonstrating a deep understanding of mathematical modeling.
