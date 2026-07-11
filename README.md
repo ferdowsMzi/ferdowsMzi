@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=ferdowsMzi&color=blue&style=for-the-badge" alt="Profile Views" />
+
 
 ---
 
@@ -21,6 +23,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdowsMzi&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### 🌱 Current Focus
+
+- **Front-end Development:** Mastering advanced rendering patterns in **Next.js** and optimizing Core Web Vitals for high-performance, scalable applications.
+- **Computer Vision:** Diving deeper into Image Processing techniques, with a specialized focus on **Medical Imaging** and diagnostic models.
+- **AI & Deep Learning:** Advancing my research and practical implementations in **Speech Processing** and **Natural Language Processing (NLP)**.
 
 ---
 
